@@ -1,4 +1,4 @@
-![AIRBNB](./Images/Airbnb%20Image.webp)   
+![Airbnb Analysis Banner](./Images/img.jpg)    
 # 🏙️ Airbnb Booking Analysis  
 
 <p align="center">
