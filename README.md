@@ -103,5 +103,10 @@ streamlit run app.py
 - Integrate map-based visualizations
 ---
 
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
 👤 Author
 Piyush Kumar
