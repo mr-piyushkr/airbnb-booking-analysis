@@ -15,6 +15,10 @@ pricing varies across **boroughs and neighbourhoods**.
 The goal is to identify **affordable locations for travelers** and uncover  
 **key factors influencing rental prices** using Exploratory Data Analysis (EDA).
 
+🔗 GitHub Repo: [Link](https://github.com/mr-piyushkr/airbnb-booking-analysis.git)
+
+🌐 Live Demo: [Link](https://airbnb-booking-analysis-yytj7vwbwwjff2btgnkclm.streamlit.app/)
+
 ---
 
 ## 🎯 Objectives  
